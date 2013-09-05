@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="4488.2" systemVersion="12E55" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="vXZ-lx-hvc">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3715.3"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="ufC-wZ-h7g">
+            <objects>
+                <viewController id="vXZ-lx-hvc" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="9ik-jt-gcV"/>
+                        <viewControllerLayoutGuide type="bottom" id="Dw2-CN-Jyn"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="acj-2C-slI" userLabel="Up Gradient View" customClass="GRKGradientView">
+                                <rect key="frame" x="20" y="20" width="136" height="290"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="110" id="bhk-93-u6z"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="110" id="c2u-MT-i95"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cUb-xg-Flx" userLabel="Down Gradient View" customClass="GRKGradientView">
+                                <rect key="frame" x="164" y="20" width="136" height="290"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="6u7-PD-Tq7" userLabel="Left Gradient View" customClass="GRKGradientView">
+                                <rect key="frame" x="20" y="320" width="280" height="110"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <color key="backgroundColor" red="1" green="0.5" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" priority="900" constant="110" id="hSe-W8-ZCP"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="83n-RV-tcL" userLabel="Right Gradient View" customClass="GRKGradientView">
+                                <rect key="frame" x="20" y="438" width="280" height="110"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="0.95294117649999999" blue="0.1843137255" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="6u7-PD-Tq7" firstAttribute="height" secondItem="83n-RV-tcL" secondAttribute="height" id="0uD-jb-0Bx"/>
+                            <constraint firstItem="Dw2-CN-Jyn" firstAttribute="top" secondItem="83n-RV-tcL" secondAttribute="bottom" constant="20" id="8ic-sz-JIG"/>
+                            <constraint firstItem="6u7-PD-Tq7" firstAttribute="top" secondItem="acj-2C-slI" secondAttribute="bottom" constant="10" id="EAF-aD-EuH"/>
+                            <constraint firstItem="83n-RV-tcL" firstAttribute="top" secondItem="6u7-PD-Tq7" secondAttribute="bottom" constant="8" id="Kci-f4-tFk"/>
+                            <constraint firstAttribute="trailing" secondItem="6u7-PD-Tq7" secondAttribute="trailing" constant="20" id="L0O-ex-v56"/>
+                            <constraint firstAttribute="trailing" secondItem="cUb-xg-Flx" secondAttribute="trailing" constant="20" symbolic="YES" id="OrR-Vq-zl8"/>
+                            <constraint firstItem="acj-2C-slI" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" constant="20" symbolic="YES" id="QCd-FI-X1v"/>
+                            <constraint firstItem="cUb-xg-Flx" firstAttribute="height" secondItem="acj-2C-slI" secondAttribute="height" id="Rd1-3W-XT8"/>
+                            <constraint firstItem="6u7-PD-Tq7" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" constant="20" symbolic="YES" id="UDi-El-AGP"/>
+                            <constraint firstItem="acj-2C-slI" firstAttribute="top" secondItem="cUb-xg-Flx" secondAttribute="top" id="W92-2Z-LvW"/>
+                            <constraint firstItem="83n-RV-tcL" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" constant="20" symbolic="YES" id="dVj-Ii-197"/>
+                            <constraint firstItem="cUb-xg-Flx" firstAttribute="leading" secondItem="acj-2C-slI" secondAttribute="trailing" constant="8" id="igG-hL-nzr"/>
+                            <constraint firstItem="acj-2C-slI" firstAttribute="top" secondItem="kh9-bI-dsS" secondAttribute="top" constant="20" symbolic="YES" id="qm8-gd-bgL"/>
+                            <constraint firstItem="6u7-PD-Tq7" firstAttribute="width" secondItem="83n-RV-tcL" secondAttribute="width" id="t7h-Dy-KeM"/>
+                            <constraint firstItem="cUb-xg-Flx" firstAttribute="width" secondItem="acj-2C-slI" secondAttribute="width" id="vNw-ma-flD"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="downGradient" destination="cUb-xg-Flx" id="MhR-AH-QxH"/>
+                        <outlet property="leftGradient" destination="6u7-PD-Tq7" id="r8B-lJ-F2u"/>
+                        <outlet property="rightGradient" destination="83n-RV-tcL" id="lAD-Rg-4jm"/>
+                        <outlet property="upGradient" destination="acj-2C-slI" id="7hy-SS-9Em"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

@@ -1,0 +1,673 @@
+TGRKGradientViewTestApp
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/PrecompiledHeaders/GRKGradientViewTestApp-Prefix-bpqsrjbvakmbqjdtdwgxwlyvexhz/GRKGradientViewTestApp-Prefix.pch.pch GRKGradientViewTestApp/GRKGradientViewTestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/ViewController.o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/AppDelegate.o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/GRKGradientView.o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientView/GRKGradientView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/main.o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/GRKGradientViewTestApp normal i386
+cGenerateDSYMFile /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app.dSYM /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/GRKGradientViewTestApp
+cCopyStringsFile /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/en.lproj/InfoPlist.strings GRKGradientViewTestApp/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/Images.xcassets
+cProcessInfoPlistFile /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/Info.plist /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/GRKGradientViewTestApp-Info.plist
+cTouch /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000520036EE0000000000000176
+t1375745774
+s374
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005200DCAF00000000000003B5
+t1375788207
+s949
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005200DCE900000000000001A0
+t1375788265
+s416
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005200DCFA00000000002ACB20
+t1375788282
+s2804512
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005200DCFA00000000002D2400
+t1375788282
+s2958336
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005200DCFA000000000020C080
+t1375788282
+s2146432
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005200DCFA0000000000170C20
+t1375788282
+s1510432
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005200DCFD0000000000171140
+t1375788285
+s1511744
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005200DCFD00000000000225A0
+t1375788285
+s140704
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005200DD020000000000424910
+t1375788290
+s4344080
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005200DD100000000000015880
+t1375788304
+s88192
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005200DD11000000000022BBF0
+t1375788305
+s2276336
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005200DD13000000000008F190
+t1375788307
+s586128
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005200DD180000000000E70C40
+t1375788312
+s15141952
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005200DD8500000000001530D0
+t1375788421
+s1388752
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c000000005200DDA400000000000002C4
+t1375788452
+s708
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c000000005200DDA50000000000038300
+t1375788453
+s230144
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c000000005200DDA500000000001C15A0
+t1375788453
+s1840544
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c00000000501056E300000000000121D0
+t1343248099
+s74192
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c000000005200DDA500000000000083D0
+t1375788453
+s33744
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005200DDA50000000000018240
+t1375788453
+s98880
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005200DDA5000000000000C560
+t1375788453
+s50528
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005200DDA5000000000000D0A0
+t1375788453
+s53408
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c000000005200DDA5000000000002F2E0
+t1375788453
+s193248
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005200DDA50000000000003850
+t1375788453
+s14416
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005200DDA50000000000008EE0
+t1375788453
+s36576
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005200DDA5000000000000FCF0
+t1375788453
+s64752
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005200DDA500000000000062B0
+t1375788453
+s25264
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c000000005200DDA50000000000041EC0
+t1375788453
+s270016
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c000000005200DDA5000000000000AE70
+t1375788453
+s44656
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005200DDA5000000000001C580
+t1375788453
+s116096
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005200DDA50000000000004FD0
+t1375788453
+s20432
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005200DDA500000000000AE000
+t1375788453
+s712704
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005200DDA50000000000007440
+t1375788453
+s29760
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005200DDA5000000000000DBA0
+t1375788453
+s56224
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005200DDA50000000000036000
+t1375788453
+s221184
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005200DDA500000000000345B0
+t1375788453
+s214448
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005200DDA5000000000000D7B0
+t1375788453
+s55216
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c000000005200DDA50000000000042550
+t1375788453
+s271696
+
+N/Applications/Xcode5-DP5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c0000000051FF468D0000000000004AC8
+t1375684237
+s19144
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientView/GRKGradientView.h
+c000000005228BF2A0000000000000EC0
+t1378402090
+s3776
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientView/GRKGradientView.m
+c000000005228C4D70000000000001A0C
+t1378403543
+s6668
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/AppDelegate.o
+t1378408476
+s65388
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/GRKGradientView.o
+t1378408476
+s67412
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/GRKGradientViewTestApp.LinkFileList
+c000000005228D81C000000000000033C
+t1378408476
+s828
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/ViewController.o
+t1378408476
+s50540
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/main.o
+t1378408476
+s3784
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/assetcatalog_dependencies.txt
+t1378408477
+s543
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/assetcatalog_generated_info.plist
+t1378408477
+s525
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/PrecompiledHeaders/GRKGradientViewTestApp-Prefix-bpqsrjbvakmbqjdtdwgxwlyvexhz/GRKGradientViewTestApp-Prefix.pch.pch
+t1378408476
+s115360
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app
+t1378408477
+s306
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app.dSYM
+t1378408476
+s102
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/Base.lproj/Main.storyboardc
+t1378408477
+s170
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/GRKGradientViewTestApp
+t1378408476
+s63160
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/Info.plist
+t1378408477
+s1064
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/PkgInfo
+t1378408477
+s8
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/en.lproj/InfoPlist.strings
+t1378408476
+s42
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/AppDelegate.h
+c000000005228BE690000000000000121
+t1378401897
+s289
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/AppDelegate.m
+c000000005228BE6900000000000007E3
+t1378401897
+s2019
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/Base.lproj/Main.storyboard
+c000000005228D80E0000000000001E39
+t1378408462
+s7737
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/GRKGradientViewTestApp-Info.plist
+c000000005228BE6900000000000004CB
+t1378401897
+s1227
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/GRKGradientViewTestApp-Prefix.pch
+c000000005228BE690000000000000158
+t1378401897
+s344
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/Images.xcassets
+c000000005228BE690000000000000088
+t1378401897
+s136
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/ViewController.h
+c000000005228BE6900000000000000E3
+t1378401897
+s227
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/ViewController.m
+c000000005228CD050000000000000552
+t1378405637
+s1362
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/en.lproj/InfoPlist.strings
+c000000005228BE69000000000000002D
+t1378401897
+s45
+
+N/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/main.m
+c000000005228BE69000000000000015D
+t1378401897
+s349
+
+N/usr/lib/libSystem.B.dylib
+c00000000501056CE000000000000D2A0
+t1343248078
+s53920
+
+N/usr/lib/system/libcache.dylib
+c00000000501056E30000000000013870
+t1343248099
+s79984
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005145FF740000000000030250
+t1363541876
+s197200
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000501056CE0000000000017910
+t1343248078
+s96528
+
+N/usr/lib/system/libcopyfile.dylib
+c00000000501056E1000000000001A130
+t1343248097
+s106800
+
+N/usr/lib/system/libdnsinfo.dylib
+c000000005145FF74000000000000C2A0
+t1363541876
+s49824
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000501056E30000000000008CE0
+t1343248099
+s36064
+
+N/usr/lib/system/liblaunch.dylib
+c00000000505A3438000000000001D350
+t1348088888
+s119632
+
+N/usr/lib/system/libmacho.dylib
+c00000000501056E10000000000014F90
+t1343248097
+s85904
+
+N/usr/lib/system/libquarantine.dylib
+c0000000051BF4259000000000000D790
+t1371488857
+s55184
+
+N/usr/lib/system/libremovefile.dylib
+c000000005145FF74000000000000C330
+t1363541876
+s49968
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000501056E3000000000000A080
+t1343248099
+s41088
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000513E754E00000000001F91C0
+t1363047758
+s2068928
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000051BF4259000000000001BC00
+t1371488857
+s113664
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000501056CE000000000008B580
+t1343248078
+s570752
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000051BF425900000000000569B0
+t1371488857
+s354736
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000501056CE0000000000070540
+t1343248078
+s460096
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000501056CE0000000000025620
+t1343248078
+s153120
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000051BF4259000000000000C780
+t1371488857
+s51072
+
+N/usr/lib/system/libunc.dylib
+c00000000501056DC000000000000D430
+t1343248092
+s54320
+
+N/usr/lib/system/libunwind.dylib
+c00000000501056E4000000000001BAA0
+t1343248100
+s113312
+
+CBuild AST from /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientView/GRKGradientView.m
+r0
+
+CBuild AST from /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/AppDelegate.m
+r0
+
+CBuild AST from /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/ViewController.m
+r0
+
+CBuild AST from /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc11e27e010d9b741^121330e010d9b741^---0#1#1#--18"Check dependencies36"35CAE9E4-E2A1-46CF-8C07-481EE07D8A46-
+
+CCompileAssetCatalog /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/Images.xcassets
+s400101276.958401
+e400101277.342706
+r1
+xCompileAssetCatalog
+x/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app
+x/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/Assets.car
+o/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/LaunchImage-700-568h@2x~iphone.png
+o/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"CompileAssetCatalog Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app GRKGradientViewTestApp/Images.xcassets122"CompileAssetCatalog Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app GRKGradientViewTestApp/Images.xcassetsad6af59c0fd9b741^5ebc579d0fd9b741^-571"/* com.apple.actool.compilation-results *//Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/Assets.car/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/LaunchImage-700-568h@2x~iphone.png/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@128"file://localhost/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/Images.xcassets/0000000000000000^1404"CompileAssetCatalog Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app GRKGradientViewTestApp/Images.xcassets    cd /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp    setenv PATH "/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --compile /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/Images.xcassets36"A835B4F0-45ED-429B-9FA8-C3AC4D761884-
+bE9243B83-2FB5-4BBF-93AD-D3471D467A71
+
+CCompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/AppDelegate.o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400101276.613360
+e400101276.706344
+r1
+xCompileC
+xBuild/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/AppDelegate.o
+x/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/AppDelegate.m
+d/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/AppDelegate.m247"CompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/AppDelegate.o GRKGradientViewTestApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler79219d9c0fd9b741^7cd3b49c0fd9b741^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/AppDelegate.m0000000000000000^4565"CompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/AppDelegate.o GRKGradientViewTestApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/labrown/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-generated-files.hmap -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-own-target-headers.hmap -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-all-target-headers.hmap -iquote /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-project-headers.hmap -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode5-DP5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/DerivedSources/i386 -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/DerivedSources -F/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator -include /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/PrecompiledHeaders/GRKGradientViewTestApp-Prefix-bpqsrjbvakmbqjdtdwgxwlyvexhz/GRKGradientViewTestApp-Prefix.pch -MMD -MT dependencies -MF /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/AppDelegate.dia -c /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/AppDelegate.m -o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/AppDelegate.o36"3AAE211F-573C-498E-8E42-BA174E73B4F7-
+bE9243B83-2FB5-4BBF-93AD-D3471D467A71
+
+CCompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/GRKGradientView.o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientView/GRKGradientView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400101276.613397
+e400101276.717917
+r1
+xCompileC
+xBuild/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/GRKGradientView.o
+x/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientView/GRKGradientView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientView/GRKGradientView.m
+d/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientView/GRKGradientView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientView/GRKGradientView.m298"CompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/GRKGradientView.o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientView/GRKGradientView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere9269d9c0fd9b741^21cab79c0fd9b741^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientView/GRKGradientView.m0000000000000000^4602"CompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/GRKGradientView.o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientView/GRKGradientView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/labrown/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-generated-files.hmap -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-own-target-headers.hmap -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-all-target-headers.hmap -iquote /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-project-headers.hmap -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode5-DP5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/DerivedSources/i386 -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/DerivedSources -F/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator -include /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/PrecompiledHeaders/GRKGradientViewTestApp-Prefix-bpqsrjbvakmbqjdtdwgxwlyvexhz/GRKGradientViewTestApp-Prefix.pch -MMD -MT dependencies -MF /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/GRKGradientView.d --serialize-diagnostics /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/GRKGradientView.dia -c /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientView/GRKGradientView.m -o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/GRKGradientView.o36"E98ECD80-CBBA-48C1-A60A-0CBE7D13D79E-
+bE9243B83-2FB5-4BBF-93AD-D3471D467A71
+
+CCompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/ViewController.o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400101276.613370
+e400101276.701719
+r1
+xCompileC
+xBuild/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/ViewController.o
+x/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/ViewController.m
+d/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/ViewController.h
+d/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientView/GRKGradientView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/ViewController.m253"CompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/ViewController.o GRKGradientViewTestApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerff219d9c0fd9b741^83a4b39c0fd9b741^---0#0#1#-19%DVTDocumentLocation2@128"file://localhost/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/ViewController.m0000000000000000^4583"CompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/ViewController.o GRKGradientViewTestApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/labrown/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-generated-files.hmap -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-own-target-headers.hmap -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-all-target-headers.hmap -iquote /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-project-headers.hmap -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode5-DP5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/DerivedSources/i386 -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/DerivedSources -F/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator -include /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/PrecompiledHeaders/GRKGradientViewTestApp-Prefix-bpqsrjbvakmbqjdtdwgxwlyvexhz/GRKGradientViewTestApp-Prefix.pch -MMD -MT dependencies -MF /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/ViewController.dia -c /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/ViewController.m -o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/ViewController.o36"17663CDF-CA7A-4E85-8689-ECA38026B87C-
+bE9243B83-2FB5-4BBF-93AD-D3471D467A71
+
+CCompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/main.o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400101276.613382
+e400101276.643828
+r1
+xCompileC
+xBuild/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/main.o
+x/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/main.m
+d/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/main.m233"CompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/main.o GRKGradientViewTestApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb7269d9c0fd9b741^91d2a49c0fd9b741^---0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/main.m0000000000000000^4523"CompileC Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/main.o GRKGradientViewTestApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/labrown/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-generated-files.hmap -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-own-target-headers.hmap -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-all-target-headers.hmap -iquote /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-project-headers.hmap -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode5-DP5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/DerivedSources/i386 -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/DerivedSources -F/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator -include /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/PrecompiledHeaders/GRKGradientViewTestApp-Prefix-bpqsrjbvakmbqjdtdwgxwlyvexhz/GRKGradientViewTestApp-Prefix.pch -MMD -MT dependencies -MF /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/main.dia -c /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/main.m -o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/main.o36"53DD1EA3-4BE2-49DC-BC13-059C67E3AA82-
+bE9243B83-2FB5-4BBF-93AD-D3471D467A71
+
+CCompileStoryboard /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/Base.lproj/Main.storyboard
+s400101276.958396
+e400101277.119355
+r1
+xCompileStoryboard
+x/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"CompileStoryboard GRKGradientViewTestApp/Base.lproj/Main.storyboard67"CompileStoryboard GRKGradientViewTestApp/Base.lproj/Main.storyboard876bf59c0fd9b741^828e1e9d0fd9b741^---0#0#1#-19%DVTDocumentLocation2@138"file://localhost/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/Base.lproj/Main.storyboard0000000000000000^1006"CompileStoryboard GRKGradientViewTestApp/Base.lproj/Main.storyboard    cd /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode5-DP5.app/Contents/Developer/usr/bin/..    /Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/Base.lproj/Main.storyboardc /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/Base.lproj/Main.storyboard36"E2DEC2A6-0396-4E51-93AC-ADB0BE169002-
+bE9243B83-2FB5-4BBF-93AD-D3471D467A71
+
+CCopyStringsFile /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/en.lproj/InfoPlist.strings GRKGradientViewTestApp/en.lproj/InfoPlist.strings
+s400101276.958432
+e400101276.963474
+r1
+xCopyStringsFile
+x/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/en.lproj/InfoPlist.strings
+xGRKGradientViewTestApp/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy GRKGradientViewTestApp/en.lproj/InfoPlist.strings156"CopyStringsFile Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/en.lproj/InfoPlist.strings GRKGradientViewTestApp/en.lproj/InfoPlist.stringsfd6bf59c0fd9b741^37a7f69c0fd9b741^---0#0#1#-19%DVTDocumentLocation2@138"file://localhost/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/en.lproj/InfoPlist.strings0000000000000000^731"CopyStringsFile Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/en.lproj/InfoPlist.strings GRKGradientViewTestApp/en.lproj/InfoPlist.strings    cd /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp    setenv PATH "/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/en.lproj -- GRKGradientViewTestApp/en.lproj/InfoPlist.strings36"4CBE347D-EB0F-47D9-8625-377F3384CE6B-
+bE9243B83-2FB5-4BBF-93AD-D3471D467A71
+
+CGenerateDSYMFile /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app.dSYM /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/GRKGradientViewTestApp
+s400101276.934632
+e400101276.949867
+r1
+xGenerateDSYMFile
+x/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app.dSYM
+x/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/GRKGradientViewTestApp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Generate /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app.dSYM172"GenerateDSYMFile Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app.dSYM Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/GRKGradientViewTestAppde59ef9c0fd9b741^412cf39c0fd9b741^---0#0#1#-19%DVTDocumentLocation2@157"file://localhost/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app.dSYM00389841dfffdf42^868"GenerateDSYMFile Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app.dSYM Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/GRKGradientViewTestApp    cd /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp    setenv PATH "/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/GRKGradientViewTestApp -o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app.dSYM36"08EE7B9F-09E1-4A99-A7C0-BCB3C25A1FF4-
+bE9243B83-2FB5-4BBF-93AD-D3471D467A71
+
+CLd /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/GRKGradientViewTestApp normal i386
+s400101276.726798
+e400101276.925410
+r1
+xLd
+x/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/GRKGradientViewTestApp
+xnormal
+xi386
+d/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/GRKGradientViewTestApp.LinkFileList
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/ViewController.o
+d/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/AppDelegate.o
+d/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/GRKGradientView.o
+d/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/main.o
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection164"Link /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/GRKGradientViewTestApp101"Ld Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/GRKGradientViewTestApp normal i3863e22ba9c0fd9b741^2de9ec9c0fd9b741^---0#0#1#--1763"Ld Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/GRKGradientViewTestApp normal i386    cd /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator -F/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator -filelist /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/GRKGradientViewTestApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/Objects-normal/i386/GRKGradientViewTestApp_dependency_info.dat -o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/GRKGradientViewTestApp36"0496C57D-403B-44E9-8CB6-AA47D16DE6CB-
+bE9243B83-2FB5-4BBF-93AD-D3471D467A71
+
+CProcessInfoPlistFile /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/Info.plist /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/GRKGradientViewTestApp-Info.plist
+s400101277.351483
+e400101277.355254
+r1
+xProcessInfoPlistFile
+x/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/Info.plist
+x/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/GRKGradientViewTestApp-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Process /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/GRKGradientViewTestApp-Info.plist152"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/Info.plist GRKGradientViewTestApp/GRKGradientViewTestApp-Info.pliste10c5a9d0fd9b741^73f25a9d0fd9b741^---0#0#1#-19%DVTDocumentLocation2@145"file://localhost/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/GRKGradientViewTestApp-Info.plist0000000000000000^1197"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/Info.plist GRKGradientViewTestApp/GRKGradientViewTestApp-Info.plist    cd /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp    setenv PATH "/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/GRKGradientViewTestApp-Info.plist -genpkginfo /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/assetcatalog_generated_info.plist -o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app/Info.plist36"FBFC8765-8E12-4761-A9E9-880E6266E6D5-
+bE9243B83-2FB5-4BBF-93AD-D3471D467A71
+
+CProcessPCH /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/PrecompiledHeaders/GRKGradientViewTestApp-Prefix-bpqsrjbvakmbqjdtdwgxwlyvexhz/GRKGradientViewTestApp-Prefix.pch.pch GRKGradientViewTestApp/GRKGradientViewTestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400101276.570764
+e400101276.604690
+r1
+xProcessPCH
+x/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/PrecompiledHeaders/GRKGradientViewTestApp-Prefix-bpqsrjbvakmbqjdtdwgxwlyvexhz/GRKGradientViewTestApp-Prefix.pch.pch
+xGRKGradientViewTestApp/GRKGradientViewTestApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/GRKGradientViewTestApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Precompile GRKGradientViewTestApp/GRKGradientViewTestApp-Prefix.pch271"ProcessPCH Build/Intermediates/PrecompiledHeaders/GRKGradientViewTestApp-Prefix-bpqsrjbvakmbqjdtdwgxwlyvexhz/GRKGradientViewTestApp-Prefix.pch.pch GRKGradientViewTestApp/GRKGradientViewTestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0437929c0fd9b741^1dcc9a9c0fd9b741^---0#0#1#-19%DVTDocumentLocation2@145"file://localhost/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/GRKGradientViewTestApp-Prefix.pch0000000000000000^4404"ProcessPCH Build/Intermediates/PrecompiledHeaders/GRKGradientViewTestApp-Prefix-bpqsrjbvakmbqjdtdwgxwlyvexhz/GRKGradientViewTestApp-Prefix.pch.pch GRKGradientViewTestApp/GRKGradientViewTestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/labrown/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode5-DP5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-generated-files.hmap -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-own-target-headers.hmap -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-all-target-headers.hmap -iquote /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/GRKGradientViewTestApp-project-headers.hmap -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode5-DP5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/DerivedSources/i386 -I/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/GRKGradientViewTestApp.build/Debug-iphonesimulator/GRKGradientViewTestApp.build/DerivedSources -F/Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/PrecompiledHeaders/GRKGradientViewTestApp-Prefix-bpqsrjbvakmbqjdtdwgxwlyvexhz/GRKGradientViewTestApp-Prefix.pch.dia -MMD -MT dependencies -MF /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/PrecompiledHeaders/GRKGradientViewTestApp-Prefix-bpqsrjbvakmbqjdtdwgxwlyvexhz/GRKGradientViewTestApp-Prefix.pch.d -c /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/GRKGradientViewTestApp/GRKGradientViewTestApp-Prefix.pch -o /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Intermediates/PrecompiledHeaders/GRKGradientViewTestApp-Prefix-bpqsrjbvakmbqjdtdwgxwlyvexhz/GRKGradientViewTestApp-Prefix.pch.pch36"2AE1B7BB-9E64-49F6-8BF9-52BF0A2FDD39-
+bE9243B83-2FB5-4BBF-93AD-D3471D467A71
+
+CProcessPCH /Users/labrown/Library/Developer/Xcode/DerivedData/GRKGradientViewTestApp-frcglbtmaiahajhcqlokzxscmitk/Index/PrecompiledHeaders/GRKGradientViewTestApp-Prefix-gyzrerstjrujhfbgpikzttnpnlzk_ast/GRKGradientViewTestApp-Prefix.pch.pch GRKGradientViewTestApp/GRKGradientViewTestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/labrown/Development/GitHub/GRKGradientView/GRKGradientViewTestApp/Build/Products/Debug-iphonesimulator/GRKGradientViewTestApp.app
+r0
+
