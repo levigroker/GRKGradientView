@@ -3,10 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0"
   s.summary      = "A UIView subclass which draws a configurable gradient."
   s.description  = <<-DESC
-		Used to build a hash result from contributed objects or hashes (presumably
-		properties on your object which should be considered in the isEqual: override).
-		The intention is for the hash result to be returned from an override to the
-		`NSObject` `- (NSUInteger)hash` method.
+		Use as you would any UIView and configure it to render a gradient instead of a solid color.
     DESC
   s.homepage     = "https://github.com/levigroker/GRKGradientView"
   s.license      = 'Creative Commons Attribution 3.0 Unported License'
