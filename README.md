@@ -1,9 +1,8 @@
 GRKGradientView
 ===========
-Used to build a hash result from contributed objects or hashes (presumably
-properties on your object which should be considered in the isEqual: override).
-The intention is for the hash result to be returned from an override to the
-`NSObject` `- (NSUInteger)hash` method.
+A UIView subclass which draws a configurable gradient.
+
+![Sample Screenshot](/ReadmeAssets/ScreenShot.png?raw=true)
 
 ### Installing
 
@@ -31,8 +30,6 @@ gradient.
 	}
 
 Additional documentation is available in `GRKGradientView.h`.
-
-![Sample Screenshot](/ReadmeAssets/ScreenShot.png?raw=true)
 
 #### Disclaimer and Licence
 
