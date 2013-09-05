@@ -32,6 +32,8 @@ gradient.
 
 Additional documentation is available in `GRKGradientView.h`.
 
+![Sample Screenshot](/ReadmeAssets/ScreenShot.png?raw=true)
+
 #### Disclaimer and Licence
 
 * This work makes use of some techniques and concepts presented in [SAMGradientView](https://github.com/soffes/SAMGradientView)
@@ -44,6 +46,6 @@ blog [grokin.gs](http://grokin.gs), I am reachable via:
 
 Twitter [@levigroker](https://twitter.com/levigroker)  
 App.net [@levigroker](https://alpha.app.net/levigroker)  
-EMail [levigroker@gmail.com](mailto:levigroker@gmail.com)  
+Email [levigroker@gmail.com](mailto:levigroker@gmail.com)  
 
 Your constructive comments and feedback are always welcome.
