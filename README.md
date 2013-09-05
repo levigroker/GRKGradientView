@@ -4,6 +4,14 @@ A UIView subclass which draws a configurable gradient.
 
 ![Sample Screenshot](/ReadmeAssets/ScreenShot.png?raw=true)
 
+#### Future Ideas
+
+* Radial gradient.
+* Linear gradient with an angle.
+* Animatable rotation of linear gradient.
+* Linear gradient animates based on accelerometer data (gravity "down" is always the "end"
+of the gradient).
+
 ### Installing
 
 If you're using [CocoPods](http://cocopods.org) it's as simple as adding this to your `Podfile`:
