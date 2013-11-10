@@ -16,6 +16,10 @@
 @property (nonatomic,weak) IBOutlet GRKGradientView *leftGradient;
 @property (nonatomic,weak) IBOutlet GRKGradientView *rightGradient;
 
+@property (nonatomic,weak) IBOutlet UISlider *leftSlider;
+
+- (IBAction)leftSliderAction:(id)sender;
+
 @end
 
 @implementation ViewController
@@ -35,6 +39,11 @@
     
     self.rightGradient.gradientOrientation = GRKGradientOrientationRight;
     self.rightGradient.gradientColors = [NSArray arrayWithObjects:[UIColor purpleColor], [UIColor blueColor], nil];
+}
+
+- (IBAction)leftSliderAction:(id)sender
+{
+    self.leftGradient.gradientLocations = @[@(self.leftSlider.value), @1.0];
 }
 
 @end

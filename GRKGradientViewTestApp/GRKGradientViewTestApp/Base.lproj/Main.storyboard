@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="4488.2" systemVersion="12E55" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="vXZ-lx-hvc">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="4514" systemVersion="13A603" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="vXZ-lx-hvc">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3715.3"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3746"/>
     </dependencies>
     <scenes>
         <!--View Controller-->
@@ -33,13 +33,25 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="6u7-PD-Tq7" userLabel="Left Gradient View" customClass="GRKGradientView">
                                 <rect key="frame" x="20" y="320" width="280" height="110"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <subviews>
+                                    <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="DLu-5V-kX8">
+                                        <rect key="frame" x="-2" y="38" width="284" height="34"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <connections>
+                                            <action selector="leftSliderAction:" destination="vXZ-lx-hvc" eventType="valueChanged" id="pxv-mw-qcm"/>
+                                        </connections>
+                                    </slider>
+                                </subviews>
                                 <color key="backgroundColor" red="1" green="0.5" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
+                                    <constraint firstItem="DLu-5V-kX8" firstAttribute="leading" secondItem="6u7-PD-Tq7" secondAttribute="leading" id="1ZK-TQ-9Bq"/>
+                                    <constraint firstAttribute="centerY" secondItem="DLu-5V-kX8" secondAttribute="centerY" constant="0.5" id="MeL-3B-NNt"/>
                                     <constraint firstAttribute="height" priority="900" constant="110" id="hSe-W8-ZCP"/>
+                                    <constraint firstAttribute="width" secondItem="DLu-5V-kX8" secondAttribute="width" id="ooP-ob-X7e"/>
                                 </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="83n-RV-tcL" userLabel="Right Gradient View" customClass="GRKGradientView">
-                                <rect key="frame" x="20" y="438" width="280" height="110"/>
+                                <rect key="frame" x="20" y="438.00000062482104" width="280" height="110"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                                 <color key="backgroundColor" red="0.0" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                             </view>
@@ -66,6 +78,7 @@
                     <connections>
                         <outlet property="downGradient" destination="cUb-xg-Flx" id="MhR-AH-QxH"/>
                         <outlet property="leftGradient" destination="6u7-PD-Tq7" id="r8B-lJ-F2u"/>
+                        <outlet property="leftSlider" destination="DLu-5V-kX8" id="QlY-NA-Svx"/>
                         <outlet property="rightGradient" destination="83n-RV-tcL" id="lAD-Rg-4jm"/>
                         <outlet property="upGradient" destination="acj-2C-slI" id="7hy-SS-9Em"/>
                     </connections>
