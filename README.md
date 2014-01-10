@@ -2,7 +2,7 @@ GRKGradientView
 ===========
 A UIView subclass which draws a configurable gradient.
 
-![Sample Screenshot](/ReadmeAssets/ScreenShot.png?raw=true)
+![Sample Screenshot](ReadmeAssets/ScreenShot.png)
 
 #### Future Ideas
 
@@ -46,8 +46,8 @@ Additional documentation is available in `GRKGradientView.h`.
   Please see the included LICENSE.txt for complete details.
 
 #### About
-A professional iOS engineer by day, my name is Levi Brown. Authoring a technical
-blog [grokin.gs](http://grokin.gs), I am reachable via:
+A professional iOS engineer by day, my name is Levi Brown. Authoring a technical blog
+[grokin.gs](http://grokin.gs), I am reachable via:
 
 Twitter [@levigroker](https://twitter.com/levigroker)  
 App.net [@levigroker](https://alpha.app.net/levigroker)  
