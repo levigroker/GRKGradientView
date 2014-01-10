@@ -17,12 +17,12 @@
 
 #import <UIKit/UIKit.h>
 
-typedef enum {
+typedef NS_ENUM(NSInteger, GRKGradientOrientation) {
     GRKGradientOrientationDown = 0,
     GRKGradientOrientationUp,
     GRKGradientOrientationRight,
     GRKGradientOrientationLeft
-} GRKGradientOrientation;
+};
 
 @interface GRKGradientView : UIView
 
