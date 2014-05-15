@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.license      = 'Creative Commons Attribution 3.0 Unported License'
   s.author       = { "Levi Brown" => "levigroker@gmail.com" }
   s.social_media_url = 'https://twitter.com/levigroker'
-  s.source       = { :git => "https://github.com/levigroker/GRKGradientView.git", :tag => "1.0.1" }
+  s.source       = { :git => "https://github.com/levigroker/GRKGradientView.git", :tag => s.version.to_s }
   s.platform     = :ios, '6.0'
   s.ios.deployment_target = '6.0'
   s.source_files = 'GRKGradientView/**/*.{h,m}'
