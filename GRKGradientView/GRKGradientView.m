@@ -123,6 +123,11 @@
 - (void)drawRect:(CGRect)rect
 {
 	CGContextRef context = UIGraphicsGetCurrentContext();
+	
+	if (_gradientCornerRadius) {
+		[self clipCornersToOvalWidth:_gradientCornerRadius height:_gradientCornerRadius];
+		CGContextClip(context);
+	}
     
 	if (self.gradient)
     {

@@ -54,6 +54,12 @@ typedef NS_ENUM(NSInteger, GRKGradientOrientation) {
  */
 @property (nonatomic,assign) GRKGradientOrientation gradientOrientation;
 
+/**
+ The corner radius of UIView.
+ Defaults to `0.0`
+ */
+@property (nonatomic,assign) float gradientCornerRadius;
+
 ///
 /// @name For subclasses to override as needed.
 ///
