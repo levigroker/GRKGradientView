@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "GRKGradientView"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "A UIView subclass which draws a configurable gradient."
   s.description  = <<-DESC
 		Use as you would any UIView and configure it to render a gradient instead of a solid color.
